@@ -8,7 +8,8 @@
 测试：explore.ipynb
 
 #训练数据以及训练好的模型
-链接:https://pan.baidu.com/s/1-MlSE5GJ61bEyqa0aXRAgw  密码:f11m
+原始文件：链接:https://pan.baidu.com/s/1-MlSE5GJ61bEyqa0aXRAgw  密码:f11m
+压缩包：链接:https://pan.baidu.com/s/1EOBgegta0seCRTaEoE12fg  密码:zg9a
 
 
 
